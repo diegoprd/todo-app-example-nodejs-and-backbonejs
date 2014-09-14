@@ -1,14 +1,14 @@
 
-/* line 15 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/all.styl */
+/* line 15 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/all.styl */
 
-/* line 1 : /Users/diegoprado/workspace/toptal/diego-prado/node_modules/stylus/lib/functions/index.styl */
+/* line 1 : /Users/diegoprado/workspace/toptal/todo-app-example/node_modules/stylus/lib/functions/index.styl */
 
-/* line 293 : /Users/diegoprado/workspace/toptal/diego-prado/node_modules/stylus/lib/functions/index.styl */
+/* line 293 : /Users/diegoprado/workspace/toptal/todo-app-example/node_modules/stylus/lib/functions/index.styl */
 
-/* line 293 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/normalize.styl */
+/* line 293 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/normalize.styl */
 /* normalize.css v3.0.1 | MIT License | git.io/normalize */
 
-/* line 43 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/normalize.styl */
+/* line 43 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/normalize.styl */
 html {
   font-family: sans-serif;
 /* 1 */
@@ -18,12 +18,12 @@ html {
 /* 2 */
 }
 
-/* line 53 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/normalize.styl */
+/* line 53 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/normalize.styl */
 body {
   margin: 0;
 }
 
-/* line 66 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/normalize.styl */
+/* line 66 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/normalize.styl */
 article,
 aside,
 details,
@@ -39,7 +39,7 @@ summary {
   display: block;
 }
 
-/* line 75 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/normalize.styl */
+/* line 75 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/normalize.styl */
 audio,
 canvas,
 progress,
@@ -50,63 +50,63 @@ video {
 /* 2 */
 }
 
-/* line 85 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/normalize.styl */
+/* line 85 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/normalize.styl */
 audio:not([controls]) {
   display: none;
   height: 0;
 }
 
-/* line 95 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/normalize.styl */
+/* line 95 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/normalize.styl */
 [hidden],
 template {
   display: none;
 }
 
-/* line 106 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/normalize.styl */
+/* line 106 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/normalize.styl */
 a {
   background: transparent;
 }
 
-/* line 114 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/normalize.styl */
+/* line 114 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/normalize.styl */
 a:active,
 a:hover {
   outline: 0;
 }
 
-/* line 125 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/normalize.styl */
+/* line 125 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/normalize.styl */
 abbr[title] {
   border-bottom: 1px dotted;
 }
 
-/* line 133 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/normalize.styl */
+/* line 133 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/normalize.styl */
 b,
 strong {
   font-weight: bold;
 }
 
-/* line 141 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/normalize.styl */
+/* line 141 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/normalize.styl */
 dfn {
   font-style: italic;
 }
 
-/* line 150 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/normalize.styl */
+/* line 150 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/normalize.styl */
 h1 {
   font-size: 2em;
   margin: 0.67em 0;
 }
 
-/* line 159 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/normalize.styl */
+/* line 159 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/normalize.styl */
 mark {
   background: #ff0;
   color: #000;
 }
 
-/* line 168 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/normalize.styl */
+/* line 168 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/normalize.styl */
 small {
   font-size: 80%;
 }
 
-/* line 176 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/normalize.styl */
+/* line 176 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/normalize.styl */
 sub,
 sup {
   font-size: 75%;
@@ -115,44 +115,44 @@ sup {
   vertical-align: baseline;
 }
 
-/* line 183 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/normalize.styl */
+/* line 183 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/normalize.styl */
 sup {
   top: -0.5em;
 }
 
-/* line 187 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/normalize.styl */
+/* line 187 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/normalize.styl */
 sub {
   bottom: -0.25em;
 }
 
-/* line 198 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/normalize.styl */
+/* line 198 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/normalize.styl */
 img {
   border: 0;
 }
 
-/* line 206 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/normalize.styl */
+/* line 206 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/normalize.styl */
 svg:not(:root) {
   overflow: hidden;
 }
 
-/* line 217 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/normalize.styl */
+/* line 217 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/normalize.styl */
 figure {
   margin: 1em 40px;
 }
 
-/* line 225 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/normalize.styl */
+/* line 225 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/normalize.styl */
 hr {
   -moz-box-sizing: content-box;
   box-sizing: content-box;
   height: 0;
 }
 
-/* line 235 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/normalize.styl */
+/* line 235 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/normalize.styl */
 pre {
   overflow: auto;
 }
 
-/* line 243 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/normalize.styl */
+/* line 243 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/normalize.styl */
 code,
 kbd,
 pre,
@@ -161,7 +161,7 @@ samp {
   font-size: 1em;
 }
 
-/* line 263 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/normalize.styl */
+/* line 263 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/normalize.styl */
 button,
 input,
 optgroup,
@@ -175,18 +175,18 @@ textarea {
 /* 3 */
 }
 
-/* line 273 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/normalize.styl */
+/* line 273 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/normalize.styl */
 button {
   overflow: visible;
 }
 
-/* line 284 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/normalize.styl */
+/* line 284 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/normalize.styl */
 button,
 select {
   text-transform: none;
 }
 
-/* line 296 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/normalize.styl */
+/* line 296 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/normalize.styl */
 button,
 html input[type="button"],
 * 1 */,
@@ -198,25 +198,25 @@ input[type="submit"] {
 /* 3 */
 }
 
-/* line 306 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/normalize.styl */
+/* line 306 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/normalize.styl */
 button[disabled],
 html input[disabled] {
   cursor: default;
 }
 
-/* line 314 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/normalize.styl */
+/* line 314 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/normalize.styl */
 button::-moz-focus-inner,
 input::-moz-focus-inner {
   border: 0;
   padding: 0;
 }
 
-/* line 324 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/normalize.styl */
+/* line 324 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/normalize.styl */
 input {
   line-height: normal;
 }
 
-/* line 336 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/normalize.styl */
+/* line 336 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/normalize.styl */
 input[type="checkbox"],
 input[type="radio"] {
   box-sizing: border-box;
@@ -225,13 +225,13 @@ input[type="radio"] {
 /* 2 */
 }
 
-/* line 347 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/normalize.styl */
+/* line 347 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/normalize.styl */
 input[type="number"]::-webkit-inner-spin-button,
 input[type="number"]::-webkit-outer-spin-button {
   height: auto;
 }
 
-/* line 357 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/normalize.styl */
+/* line 357 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/normalize.styl */
 input[type="search"] {
   -webkit-appearance: textfield;
 /* 1 */
@@ -241,20 +241,20 @@ input[type="search"] {
   box-sizing: content-box;
 }
 
-/* line 370 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/normalize.styl */
+/* line 370 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/normalize.styl */
 input[type="search"]::-webkit-search-cancel-button,
 input[type="search"]::-webkit-search-decoration {
   -webkit-appearance: none;
 }
 
-/* line 378 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/normalize.styl */
+/* line 378 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/normalize.styl */
 fieldset {
   border: 1px solid #c0c0c0;
   margin: 0 2px;
   padding: 0.35em 0.625em 0.75em;
 }
 
-/* line 389 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/normalize.styl */
+/* line 389 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/normalize.styl */
 legend {
   border: 0;
 /* 1 */
@@ -262,115 +262,115 @@ legend {
 /* 2 */
 }
 
-/* line 398 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/normalize.styl */
+/* line 398 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/normalize.styl */
 textarea {
   overflow: auto;
 }
 
-/* line 407 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/normalize.styl */
+/* line 407 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/normalize.styl */
 optgroup {
   font-weight: bold;
 }
 
-/* line 418 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/normalize.styl */
+/* line 418 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/normalize.styl */
 table {
   border-collapse: collapse;
   border-spacing: 0;
 }
 
-/* line 423 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/normalize.styl */
+/* line 423 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/normalize.styl */
 td,
 th {
   padding: 0;
 }
 
-/* line 426 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/normalize.styl */
+/* line 426 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/normalize.styl */
 
-/* line 14 : /Users/diegoprado/workspace/toptal/diego-prado/node_modules/nib/lib/nib/index.styl */
+/* line 14 : /Users/diegoprado/workspace/toptal/todo-app-example/node_modules/nib/lib/nib/index.styl */
 
-/* line 14 : /Users/diegoprado/workspace/toptal/diego-prado/node_modules/nib/lib/nib/index.styl */
+/* line 14 : /Users/diegoprado/workspace/toptal/todo-app-example/node_modules/nib/lib/nib/index.styl */
 
-/* line 2 : /Users/diegoprado/workspace/toptal/diego-prado/node_modules/nib/lib/nib/border.styl */
+/* line 2 : /Users/diegoprado/workspace/toptal/todo-app-example/node_modules/nib/lib/nib/border.styl */
 
-/* line 12 : /Users/diegoprado/workspace/toptal/diego-prado/node_modules/nib/lib/nib/border.styl */
+/* line 12 : /Users/diegoprado/workspace/toptal/todo-app-example/node_modules/nib/lib/nib/border.styl */
 
-/* line 3 : /Users/diegoprado/workspace/toptal/diego-prado/node_modules/nib/lib/nib/clearfix.styl */
+/* line 3 : /Users/diegoprado/workspace/toptal/todo-app-example/node_modules/nib/lib/nib/clearfix.styl */
 
-/* line 31 : /Users/diegoprado/workspace/toptal/diego-prado/node_modules/nib/lib/nib/clearfix.styl */
+/* line 31 : /Users/diegoprado/workspace/toptal/todo-app-example/node_modules/nib/lib/nib/clearfix.styl */
 
-/* line 2 : /Users/diegoprado/workspace/toptal/diego-prado/node_modules/nib/lib/nib/color-image.styl */
+/* line 2 : /Users/diegoprado/workspace/toptal/todo-app-example/node_modules/nib/lib/nib/color-image.styl */
 
-/* line 6 : /Users/diegoprado/workspace/toptal/diego-prado/node_modules/nib/lib/nib/color-image.styl */
+/* line 6 : /Users/diegoprado/workspace/toptal/todo-app-example/node_modules/nib/lib/nib/color-image.styl */
 
-/* line 6 : /Users/diegoprado/workspace/toptal/diego-prado/node_modules/nib/lib/nib/flex.styl */
+/* line 6 : /Users/diegoprado/workspace/toptal/todo-app-example/node_modules/nib/lib/nib/flex.styl */
 
-/* line 197 : /Users/diegoprado/workspace/toptal/diego-prado/node_modules/nib/lib/nib/flex.styl */
+/* line 197 : /Users/diegoprado/workspace/toptal/todo-app-example/node_modules/nib/lib/nib/flex.styl */
 
-/* line 94 : /Users/diegoprado/workspace/toptal/diego-prado/node_modules/nib/lib/nib/gradients.styl */
+/* line 94 : /Users/diegoprado/workspace/toptal/todo-app-example/node_modules/nib/lib/nib/gradients.styl */
 
-/* line 94 : /Users/diegoprado/workspace/toptal/diego-prado/node_modules/nib/lib/nib/gradients.styl */
+/* line 94 : /Users/diegoprado/workspace/toptal/todo-app-example/node_modules/nib/lib/nib/gradients.styl */
 
-/* line 94 : /Users/diegoprado/workspace/toptal/diego-prado/node_modules/nib/lib/nib/config.styl */
+/* line 94 : /Users/diegoprado/workspace/toptal/todo-app-example/node_modules/nib/lib/nib/config.styl */
 
-/* line 12 : /Users/diegoprado/workspace/toptal/diego-prado/node_modules/nib/lib/nib/config.styl */
+/* line 12 : /Users/diegoprado/workspace/toptal/todo-app-example/node_modules/nib/lib/nib/config.styl */
 
-/* line 2 : /Users/diegoprado/workspace/toptal/diego-prado/node_modules/nib/lib/nib/iconic.styl */
+/* line 2 : /Users/diegoprado/workspace/toptal/todo-app-example/node_modules/nib/lib/nib/iconic.styl */
 
-/* line 9 : /Users/diegoprado/workspace/toptal/diego-prado/node_modules/nib/lib/nib/iconic.styl */
+/* line 9 : /Users/diegoprado/workspace/toptal/todo-app-example/node_modules/nib/lib/nib/iconic.styl */
 
-/* line 2 : /Users/diegoprado/workspace/toptal/diego-prado/node_modules/nib/lib/nib/image.styl */
+/* line 2 : /Users/diegoprado/workspace/toptal/todo-app-example/node_modules/nib/lib/nib/image.styl */
 
-/* line 27 : /Users/diegoprado/workspace/toptal/diego-prado/node_modules/nib/lib/nib/image.styl */
+/* line 27 : /Users/diegoprado/workspace/toptal/todo-app-example/node_modules/nib/lib/nib/image.styl */
 
-/* line 27 : /Users/diegoprado/workspace/toptal/diego-prado/node_modules/nib/lib/nib/overflow.styl */
+/* line 27 : /Users/diegoprado/workspace/toptal/todo-app-example/node_modules/nib/lib/nib/overflow.styl */
 
-/* line 23 : /Users/diegoprado/workspace/toptal/diego-prado/node_modules/nib/lib/nib/overflow.styl */
+/* line 23 : /Users/diegoprado/workspace/toptal/todo-app-example/node_modules/nib/lib/nib/overflow.styl */
 
-/* line 9 : /Users/diegoprado/workspace/toptal/diego-prado/node_modules/nib/lib/nib/positions.styl */
+/* line 9 : /Users/diegoprado/workspace/toptal/todo-app-example/node_modules/nib/lib/nib/positions.styl */
 
-/* line 73 : /Users/diegoprado/workspace/toptal/diego-prado/node_modules/nib/lib/nib/positions.styl */
+/* line 73 : /Users/diegoprado/workspace/toptal/todo-app-example/node_modules/nib/lib/nib/positions.styl */
 
-/* line 15 : /Users/diegoprado/workspace/toptal/diego-prado/node_modules/nib/lib/nib/reset.styl */
+/* line 15 : /Users/diegoprado/workspace/toptal/todo-app-example/node_modules/nib/lib/nib/reset.styl */
 
-/* line 79 : /Users/diegoprado/workspace/toptal/diego-prado/node_modules/nib/lib/nib/reset.styl */
+/* line 79 : /Users/diegoprado/workspace/toptal/todo-app-example/node_modules/nib/lib/nib/reset.styl */
 
-/* line 6 : /Users/diegoprado/workspace/toptal/diego-prado/node_modules/nib/lib/nib/text/index.styl */
+/* line 6 : /Users/diegoprado/workspace/toptal/todo-app-example/node_modules/nib/lib/nib/text/index.styl */
 
-/* line 6 : /Users/diegoprado/workspace/toptal/diego-prado/node_modules/nib/lib/nib/text/index.styl */
+/* line 6 : /Users/diegoprado/workspace/toptal/todo-app-example/node_modules/nib/lib/nib/text/index.styl */
 
-/* line 2 : /Users/diegoprado/workspace/toptal/diego-prado/node_modules/nib/lib/nib/text/aliases.styl */
+/* line 2 : /Users/diegoprado/workspace/toptal/todo-app-example/node_modules/nib/lib/nib/text/aliases.styl */
 
-/* line 14 : /Users/diegoprado/workspace/toptal/diego-prado/node_modules/nib/lib/nib/text/aliases.styl */
+/* line 14 : /Users/diegoprado/workspace/toptal/todo-app-example/node_modules/nib/lib/nib/text/aliases.styl */
 
-/* line 2 : /Users/diegoprado/workspace/toptal/diego-prado/node_modules/nib/lib/nib/text/ellipsis.styl */
+/* line 2 : /Users/diegoprado/workspace/toptal/todo-app-example/node_modules/nib/lib/nib/text/ellipsis.styl */
 
-/* line 11 : /Users/diegoprado/workspace/toptal/diego-prado/node_modules/nib/lib/nib/text/ellipsis.styl */
+/* line 11 : /Users/diegoprado/workspace/toptal/todo-app-example/node_modules/nib/lib/nib/text/ellipsis.styl */
 
-/* line 11 : /Users/diegoprado/workspace/toptal/diego-prado/node_modules/nib/lib/nib/text/hide-text.styl */
+/* line 11 : /Users/diegoprado/workspace/toptal/todo-app-example/node_modules/nib/lib/nib/text/hide-text.styl */
 
-/* line 9 : /Users/diegoprado/workspace/toptal/diego-prado/node_modules/nib/lib/nib/text/hide-text.styl */
+/* line 9 : /Users/diegoprado/workspace/toptal/todo-app-example/node_modules/nib/lib/nib/text/hide-text.styl */
 
-/* line 9 : /Users/diegoprado/workspace/toptal/diego-prado/node_modules/nib/lib/nib/text/replace-text.styl */
+/* line 9 : /Users/diegoprado/workspace/toptal/todo-app-example/node_modules/nib/lib/nib/text/replace-text.styl */
 
-/* line 10 : /Users/diegoprado/workspace/toptal/diego-prado/node_modules/nib/lib/nib/text/replace-text.styl */
+/* line 10 : /Users/diegoprado/workspace/toptal/todo-app-example/node_modules/nib/lib/nib/text/replace-text.styl */
 
-/* line 1 : /Users/diegoprado/workspace/toptal/diego-prado/node_modules/nib/lib/nib/text/shadow-stroke.styl */
+/* line 1 : /Users/diegoprado/workspace/toptal/todo-app-example/node_modules/nib/lib/nib/text/shadow-stroke.styl */
 
-/* line 3 : /Users/diegoprado/workspace/toptal/diego-prado/node_modules/nib/lib/nib/text/shadow-stroke.styl */
+/* line 3 : /Users/diegoprado/workspace/toptal/todo-app-example/node_modules/nib/lib/nib/text/shadow-stroke.styl */
 
-/* line undefined : /Users/diegoprado/workspace/toptal/diego-prado/node_modules/nib/lib/nib/vendor.styl */
+/* line undefined : /Users/diegoprado/workspace/toptal/todo-app-example/node_modules/nib/lib/nib/vendor.styl */
 
-/* line 576 : /Users/diegoprado/workspace/toptal/diego-prado/node_modules/nib/lib/nib/vendor.styl */
+/* line 576 : /Users/diegoprado/workspace/toptal/todo-app-example/node_modules/nib/lib/nib/vendor.styl */
 
-/* line 576 : /Users/diegoprado/workspace/toptal/diego-prado/node_modules/nib/lib/nib/config.styl */
+/* line 576 : /Users/diegoprado/workspace/toptal/todo-app-example/node_modules/nib/lib/nib/config.styl */
 
-/* line 12 : /Users/diegoprado/workspace/toptal/diego-prado/node_modules/nib/lib/nib/config.styl */
+/* line 12 : /Users/diegoprado/workspace/toptal/todo-app-example/node_modules/nib/lib/nib/config.styl */
 
-/* line 12 : /Users/diegoprado/workspace/toptal/diego-prado/node_modules/nib/lib/nib/size.styl */
+/* line 12 : /Users/diegoprado/workspace/toptal/todo-app-example/node_modules/nib/lib/nib/size.styl */
 
-/* line 33 : /Users/diegoprado/workspace/toptal/diego-prado/node_modules/nib/lib/nib/size.styl */
+/* line 33 : /Users/diegoprado/workspace/toptal/todo-app-example/node_modules/nib/lib/nib/size.styl */
 
-/* line 33 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/foundation_icons.styl */
+/* line 33 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/foundation_icons.styl */
 @font-face {
   font-family: "foundation-icons";
   src: url("foundation-icons/foundation-icons.eot");
@@ -379,7 +379,7 @@ th {
   font-style: normal;
 }
 
-/* line 300 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/foundation_icons.styl */
+/* line 300 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/foundation_icons.styl */
 .fi-address-book:before,
 .fi-alert:before,
 .fi-align-center:before,
@@ -674,1430 +674,1430 @@ th {
   text-decoration: inherit;
 }
 
-/* line 312 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/foundation_icons.styl */
+/* line 312 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/foundation_icons.styl */
 .fi-address-book:before {
   content: "\f100";
 }
 
-/* line 313 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/foundation_icons.styl */
+/* line 313 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/foundation_icons.styl */
 .fi-alert:before {
   content: "\f101";
 }
 
-/* line 314 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/foundation_icons.styl */
+/* line 314 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/foundation_icons.styl */
 .fi-align-center:before {
   content: "\f102";
 }
 
-/* line 315 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/foundation_icons.styl */
+/* line 315 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/foundation_icons.styl */
 .fi-align-justify:before {
   content: "\f103";
 }
 
-/* line 316 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/foundation_icons.styl */
+/* line 316 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/foundation_icons.styl */
 .fi-align-left:before {
   content: "\f104";
 }
 
-/* line 317 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/foundation_icons.styl */
+/* line 317 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/foundation_icons.styl */
 .fi-align-right:before {
   content: "\f105";
 }
 
-/* line 318 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/foundation_icons.styl */
+/* line 318 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/foundation_icons.styl */
 .fi-anchor:before {
   content: "\f106";
 }
 
-/* line 319 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/foundation_icons.styl */
+/* line 319 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/foundation_icons.styl */
 .fi-annotate:before {
   content: "\f107";
 }
 
-/* line 320 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/foundation_icons.styl */
+/* line 320 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/foundation_icons.styl */
 .fi-archive:before {
   content: "\f108";
 }
 
-/* line 321 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/foundation_icons.styl */
+/* line 321 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/foundation_icons.styl */
 .fi-arrow-down:before {
   content: "\f109";
 }
 
-/* line 322 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/foundation_icons.styl */
+/* line 322 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/foundation_icons.styl */
 .fi-arrow-left:before {
   content: "\f10a";
 }
 
-/* line 323 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/foundation_icons.styl */
+/* line 323 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/foundation_icons.styl */
 .fi-arrow-right:before {
   content: "\f10b";
 }
 
-/* line 324 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/foundation_icons.styl */
+/* line 324 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/foundation_icons.styl */
 .fi-arrow-up:before {
   content: "\f10c";
 }
 
-/* line 325 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/foundation_icons.styl */
+/* line 325 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/foundation_icons.styl */
 .fi-arrows-compress:before {
   content: "\f10d";
 }
 
-/* line 326 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/foundation_icons.styl */
+/* line 326 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/foundation_icons.styl */
 .fi-arrows-expand:before {
   content: "\f10e";
 }
 
-/* line 327 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/foundation_icons.styl */
+/* line 327 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/foundation_icons.styl */
 .fi-arrows-in:before {
   content: "\f10f";
 }
 
-/* line 328 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/foundation_icons.styl */
+/* line 328 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/foundation_icons.styl */
 .fi-arrows-out:before {
   content: "\f110";
 }
 
-/* line 329 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/foundation_icons.styl */
+/* line 329 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/foundation_icons.styl */
 .fi-asl:before {
   content: "\f111";
 }
 
-/* line 330 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/foundation_icons.styl */
+/* line 330 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/foundation_icons.styl */
 .fi-asterisk:before {
   content: "\f112";
 }
 
-/* line 331 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/foundation_icons.styl */
+/* line 331 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/foundation_icons.styl */
 .fi-at-sign:before {
   content: "\f113";
 }
 
-/* line 332 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/foundation_icons.styl */
+/* line 332 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/foundation_icons.styl */
 .fi-background-color:before {
   content: "\f114";
 }
 
-/* line 333 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/foundation_icons.styl */
+/* line 333 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/foundation_icons.styl */
 .fi-battery-empty:before {
   content: "\f115";
 }
 
-/* line 334 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/foundation_icons.styl */
+/* line 334 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/foundation_icons.styl */
 .fi-battery-full:before {
   content: "\f116";
 }
 
-/* line 335 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/foundation_icons.styl */
+/* line 335 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/foundation_icons.styl */
 .fi-battery-half:before {
   content: "\f117";
 }
 
-/* line 336 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/foundation_icons.styl */
+/* line 336 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/foundation_icons.styl */
 .fi-bitcoin-circle:before {
   content: "\f118";
 }
 
-/* line 337 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/foundation_icons.styl */
+/* line 337 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/foundation_icons.styl */
 .fi-bitcoin:before {
   content: "\f119";
 }
 
-/* line 338 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/foundation_icons.styl */
+/* line 338 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/foundation_icons.styl */
 .fi-blind:before {
   content: "\f11a";
 }
 
-/* line 339 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/foundation_icons.styl */
+/* line 339 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/foundation_icons.styl */
 .fi-bluetooth:before {
   content: "\f11b";
 }
 
-/* line 340 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/foundation_icons.styl */
+/* line 340 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/foundation_icons.styl */
 .fi-bold:before {
   content: "\f11c";
 }
 
-/* line 341 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/foundation_icons.styl */
+/* line 341 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/foundation_icons.styl */
 .fi-book-bookmark:before {
   content: "\f11d";
 }
 
-/* line 342 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/foundation_icons.styl */
+/* line 342 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/foundation_icons.styl */
 .fi-book:before {
   content: "\f11e";
 }
 
-/* line 343 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/foundation_icons.styl */
+/* line 343 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/foundation_icons.styl */
 .fi-bookmark:before {
   content: "\f11f";
 }
 
-/* line 344 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/foundation_icons.styl */
+/* line 344 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/foundation_icons.styl */
 .fi-braille:before {
   content: "\f120";
 }
 
-/* line 345 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/foundation_icons.styl */
+/* line 345 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/foundation_icons.styl */
 .fi-burst-new:before {
   content: "\f121";
 }
 
-/* line 346 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/foundation_icons.styl */
+/* line 346 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/foundation_icons.styl */
 .fi-burst-sale:before {
   content: "\f122";
 }
 
-/* line 347 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/foundation_icons.styl */
+/* line 347 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/foundation_icons.styl */
 .fi-burst:before {
   content: "\f123";
 }
 
-/* line 348 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/foundation_icons.styl */
+/* line 348 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/foundation_icons.styl */
 .fi-calendar:before {
   content: "\f124";
 }
 
-/* line 349 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/foundation_icons.styl */
+/* line 349 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/foundation_icons.styl */
 .fi-camera:before {
   content: "\f125";
 }
 
-/* line 350 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/foundation_icons.styl */
+/* line 350 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/foundation_icons.styl */
 .fi-check:before {
   content: "\f126";
 }
 
-/* line 351 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/foundation_icons.styl */
+/* line 351 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/foundation_icons.styl */
 .fi-checkbox:before {
   content: "\f127";
 }
 
-/* line 352 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/foundation_icons.styl */
+/* line 352 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/foundation_icons.styl */
 .fi-clipboard-notes:before {
   content: "\f128";
 }
 
-/* line 353 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/foundation_icons.styl */
+/* line 353 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/foundation_icons.styl */
 .fi-clipboard-pencil:before {
   content: "\f129";
 }
 
-/* line 354 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/foundation_icons.styl */
+/* line 354 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/foundation_icons.styl */
 .fi-clipboard:before {
   content: "\f12a";
 }
 
-/* line 355 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/foundation_icons.styl */
+/* line 355 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/foundation_icons.styl */
 .fi-clock:before {
   content: "\f12b";
 }
 
-/* line 356 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/foundation_icons.styl */
+/* line 356 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/foundation_icons.styl */
 .fi-closed-caption:before {
   content: "\f12c";
 }
 
-/* line 357 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/foundation_icons.styl */
+/* line 357 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/foundation_icons.styl */
 .fi-cloud:before {
   content: "\f12d";
 }
 
-/* line 358 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/foundation_icons.styl */
+/* line 358 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/foundation_icons.styl */
 .fi-comment-minus:before {
   content: "\f12e";
 }
 
-/* line 359 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/foundation_icons.styl */
+/* line 359 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/foundation_icons.styl */
 .fi-comment-quotes:before {
   content: "\f12f";
 }
 
-/* line 360 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/foundation_icons.styl */
+/* line 360 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/foundation_icons.styl */
 .fi-comment-video:before {
   content: "\f130";
 }
 
-/* line 361 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/foundation_icons.styl */
+/* line 361 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/foundation_icons.styl */
 .fi-comment:before {
   content: "\f131";
 }
 
-/* line 362 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/foundation_icons.styl */
+/* line 362 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/foundation_icons.styl */
 .fi-comments:before {
   content: "\f132";
 }
 
-/* line 363 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/foundation_icons.styl */
+/* line 363 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/foundation_icons.styl */
 .fi-compass:before {
   content: "\f133";
 }
 
-/* line 364 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/foundation_icons.styl */
+/* line 364 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/foundation_icons.styl */
 .fi-contrast:before {
   content: "\f134";
 }
 
-/* line 365 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/foundation_icons.styl */
+/* line 365 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/foundation_icons.styl */
 .fi-credit-card:before {
   content: "\f135";
 }
 
-/* line 366 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/foundation_icons.styl */
+/* line 366 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/foundation_icons.styl */
 .fi-crop:before {
   content: "\f136";
 }
 
-/* line 367 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/foundation_icons.styl */
+/* line 367 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/foundation_icons.styl */
 .fi-crown:before {
   content: "\f137";
 }
 
-/* line 368 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/foundation_icons.styl */
+/* line 368 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/foundation_icons.styl */
 .fi-css3:before {
   content: "\f138";
 }
 
-/* line 369 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/foundation_icons.styl */
+/* line 369 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/foundation_icons.styl */
 .fi-database:before {
   content: "\f139";
 }
 
-/* line 370 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/foundation_icons.styl */
+/* line 370 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/foundation_icons.styl */
 .fi-die-five:before {
   content: "\f13a";
 }
 
-/* line 371 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/foundation_icons.styl */
+/* line 371 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/foundation_icons.styl */
 .fi-die-four:before {
   content: "\f13b";
 }
 
-/* line 372 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/foundation_icons.styl */
+/* line 372 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/foundation_icons.styl */
 .fi-die-one:before {
   content: "\f13c";
 }
 
-/* line 373 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/foundation_icons.styl */
+/* line 373 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/foundation_icons.styl */
 .fi-die-six:before {
   content: "\f13d";
 }
 
-/* line 374 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/foundation_icons.styl */
+/* line 374 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/foundation_icons.styl */
 .fi-die-three:before {
   content: "\f13e";
 }
 
-/* line 375 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/foundation_icons.styl */
+/* line 375 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/foundation_icons.styl */
 .fi-die-two:before {
   content: "\f13f";
 }
 
-/* line 376 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/foundation_icons.styl */
+/* line 376 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/foundation_icons.styl */
 .fi-dislike:before {
   content: "\f140";
 }
 
-/* line 377 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/foundation_icons.styl */
+/* line 377 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/foundation_icons.styl */
 .fi-dollar-bill:before {
   content: "\f141";
 }
 
-/* line 378 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/foundation_icons.styl */
+/* line 378 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/foundation_icons.styl */
 .fi-dollar:before {
   content: "\f142";
 }
 
-/* line 379 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/foundation_icons.styl */
+/* line 379 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/foundation_icons.styl */
 .fi-download:before {
   content: "\f143";
 }
 
-/* line 380 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/foundation_icons.styl */
+/* line 380 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/foundation_icons.styl */
 .fi-eject:before {
   content: "\f144";
 }
 
-/* line 381 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/foundation_icons.styl */
+/* line 381 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/foundation_icons.styl */
 .fi-elevator:before {
   content: "\f145";
 }
 
-/* line 382 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/foundation_icons.styl */
+/* line 382 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/foundation_icons.styl */
 .fi-euro:before {
   content: "\f146";
 }
 
-/* line 383 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/foundation_icons.styl */
+/* line 383 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/foundation_icons.styl */
 .fi-eye:before {
   content: "\f147";
 }
 
-/* line 384 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/foundation_icons.styl */
+/* line 384 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/foundation_icons.styl */
 .fi-fast-forward:before {
   content: "\f148";
 }
 
-/* line 385 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/foundation_icons.styl */
+/* line 385 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/foundation_icons.styl */
 .fi-female-symbol:before {
   content: "\f149";
 }
 
-/* line 386 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/foundation_icons.styl */
+/* line 386 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/foundation_icons.styl */
 .fi-female:before {
   content: "\f14a";
 }
 
-/* line 387 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/foundation_icons.styl */
+/* line 387 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/foundation_icons.styl */
 .fi-filter:before {
   content: "\f14b";
 }
 
-/* line 388 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/foundation_icons.styl */
+/* line 388 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/foundation_icons.styl */
 .fi-first-aid:before {
   content: "\f14c";
 }
 
-/* line 389 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/foundation_icons.styl */
+/* line 389 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/foundation_icons.styl */
 .fi-flag:before {
   content: "\f14d";
 }
 
-/* line 390 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/foundation_icons.styl */
+/* line 390 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/foundation_icons.styl */
 .fi-folder-add:before {
   content: "\f14e";
 }
 
-/* line 391 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/foundation_icons.styl */
+/* line 391 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/foundation_icons.styl */
 .fi-folder-lock:before {
   content: "\f14f";
 }
 
-/* line 392 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/foundation_icons.styl */
+/* line 392 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/foundation_icons.styl */
 .fi-folder:before {
   content: "\f150";
 }
 
-/* line 393 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/foundation_icons.styl */
+/* line 393 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/foundation_icons.styl */
 .fi-foot:before {
   content: "\f151";
 }
 
-/* line 394 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/foundation_icons.styl */
+/* line 394 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/foundation_icons.styl */
 .fi-foundation:before {
   content: "\f152";
 }
 
-/* line 395 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/foundation_icons.styl */
+/* line 395 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/foundation_icons.styl */
 .fi-graph-bar:before {
   content: "\f153";
 }
 
-/* line 396 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/foundation_icons.styl */
+/* line 396 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/foundation_icons.styl */
 .fi-graph-horizontal:before {
   content: "\f154";
 }
 
-/* line 397 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/foundation_icons.styl */
+/* line 397 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/foundation_icons.styl */
 .fi-graph-pie:before {
   content: "\f155";
 }
 
-/* line 398 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/foundation_icons.styl */
+/* line 398 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/foundation_icons.styl */
 .fi-graph-trend:before {
   content: "\f156";
 }
 
-/* line 399 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/foundation_icons.styl */
+/* line 399 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/foundation_icons.styl */
 .fi-guide-dog:before {
   content: "\f157";
 }
 
-/* line 400 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/foundation_icons.styl */
+/* line 400 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/foundation_icons.styl */
 .fi-hearing-aid:before {
   content: "\f158";
 }
 
-/* line 401 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/foundation_icons.styl */
+/* line 401 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/foundation_icons.styl */
 .fi-heart:before {
   content: "\f159";
 }
 
-/* line 402 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/foundation_icons.styl */
+/* line 402 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/foundation_icons.styl */
 .fi-home:before {
   content: "\f15a";
 }
 
-/* line 403 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/foundation_icons.styl */
+/* line 403 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/foundation_icons.styl */
 .fi-html5:before {
   content: "\f15b";
 }
 
-/* line 404 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/foundation_icons.styl */
+/* line 404 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/foundation_icons.styl */
 .fi-indent-less:before {
   content: "\f15c";
 }
 
-/* line 405 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/foundation_icons.styl */
+/* line 405 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/foundation_icons.styl */
 .fi-indent-more:before {
   content: "\f15d";
 }
 
-/* line 406 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/foundation_icons.styl */
+/* line 406 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/foundation_icons.styl */
 .fi-info:before {
   content: "\f15e";
 }
 
-/* line 407 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/foundation_icons.styl */
+/* line 407 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/foundation_icons.styl */
 .fi-italic:before {
   content: "\f15f";
 }
 
-/* line 408 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/foundation_icons.styl */
+/* line 408 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/foundation_icons.styl */
 .fi-key:before {
   content: "\f160";
 }
 
-/* line 409 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/foundation_icons.styl */
+/* line 409 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/foundation_icons.styl */
 .fi-laptop:before {
   content: "\f161";
 }
 
-/* line 410 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/foundation_icons.styl */
+/* line 410 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/foundation_icons.styl */
 .fi-layout:before {
   content: "\f162";
 }
 
-/* line 411 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/foundation_icons.styl */
+/* line 411 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/foundation_icons.styl */
 .fi-lightbulb:before {
   content: "\f163";
 }
 
-/* line 412 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/foundation_icons.styl */
+/* line 412 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/foundation_icons.styl */
 .fi-like:before {
   content: "\f164";
 }
 
-/* line 413 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/foundation_icons.styl */
+/* line 413 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/foundation_icons.styl */
 .fi-link:before {
   content: "\f165";
 }
 
-/* line 414 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/foundation_icons.styl */
+/* line 414 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/foundation_icons.styl */
 .fi-list-bullet:before {
   content: "\f166";
 }
 
-/* line 415 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/foundation_icons.styl */
+/* line 415 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/foundation_icons.styl */
 .fi-list-number:before {
   content: "\f167";
 }
 
-/* line 416 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/foundation_icons.styl */
+/* line 416 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/foundation_icons.styl */
 .fi-list-thumbnails:before {
   content: "\f168";
 }
 
-/* line 417 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/foundation_icons.styl */
+/* line 417 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/foundation_icons.styl */
 .fi-list:before {
   content: "\f169";
 }
 
-/* line 418 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/foundation_icons.styl */
+/* line 418 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/foundation_icons.styl */
 .fi-lock:before {
   content: "\f16a";
 }
 
-/* line 419 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/foundation_icons.styl */
+/* line 419 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/foundation_icons.styl */
 .fi-loop:before {
   content: "\f16b";
 }
 
-/* line 420 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/foundation_icons.styl */
+/* line 420 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/foundation_icons.styl */
 .fi-magnifying-glass:before {
   content: "\f16c";
 }
 
-/* line 421 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/foundation_icons.styl */
+/* line 421 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/foundation_icons.styl */
 .fi-mail:before {
   content: "\f16d";
 }
 
-/* line 422 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/foundation_icons.styl */
+/* line 422 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/foundation_icons.styl */
 .fi-male-female:before {
   content: "\f16e";
 }
 
-/* line 423 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/foundation_icons.styl */
+/* line 423 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/foundation_icons.styl */
 .fi-male-symbol:before {
   content: "\f16f";
 }
 
-/* line 424 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/foundation_icons.styl */
+/* line 424 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/foundation_icons.styl */
 .fi-male:before {
   content: "\f170";
 }
 
-/* line 425 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/foundation_icons.styl */
+/* line 425 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/foundation_icons.styl */
 .fi-map:before {
   content: "\f171";
 }
 
-/* line 426 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/foundation_icons.styl */
+/* line 426 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/foundation_icons.styl */
 .fi-marker:before {
   content: "\f172";
 }
 
-/* line 427 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/foundation_icons.styl */
+/* line 427 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/foundation_icons.styl */
 .fi-megaphone:before {
   content: "\f173";
 }
 
-/* line 428 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/foundation_icons.styl */
+/* line 428 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/foundation_icons.styl */
 .fi-microphone:before {
   content: "\f174";
 }
 
-/* line 429 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/foundation_icons.styl */
+/* line 429 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/foundation_icons.styl */
 .fi-minus-circle:before {
   content: "\f175";
 }
 
-/* line 430 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/foundation_icons.styl */
+/* line 430 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/foundation_icons.styl */
 .fi-minus:before {
   content: "\f176";
 }
 
-/* line 431 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/foundation_icons.styl */
+/* line 431 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/foundation_icons.styl */
 .fi-mobile-signal:before {
   content: "\f177";
 }
 
-/* line 432 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/foundation_icons.styl */
+/* line 432 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/foundation_icons.styl */
 .fi-mobile:before {
   content: "\f178";
 }
 
-/* line 433 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/foundation_icons.styl */
+/* line 433 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/foundation_icons.styl */
 .fi-monitor:before {
   content: "\f179";
 }
 
-/* line 434 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/foundation_icons.styl */
+/* line 434 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/foundation_icons.styl */
 .fi-mountains:before {
   content: "\f17a";
 }
 
-/* line 435 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/foundation_icons.styl */
+/* line 435 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/foundation_icons.styl */
 .fi-music:before {
   content: "\f17b";
 }
 
-/* line 436 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/foundation_icons.styl */
+/* line 436 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/foundation_icons.styl */
 .fi-next:before {
   content: "\f17c";
 }
 
-/* line 437 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/foundation_icons.styl */
+/* line 437 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/foundation_icons.styl */
 .fi-no-dogs:before {
   content: "\f17d";
 }
 
-/* line 438 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/foundation_icons.styl */
+/* line 438 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/foundation_icons.styl */
 .fi-no-smoking:before {
   content: "\f17e";
 }
 
-/* line 439 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/foundation_icons.styl */
+/* line 439 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/foundation_icons.styl */
 .fi-page-add:before {
   content: "\f17f";
 }
 
-/* line 440 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/foundation_icons.styl */
+/* line 440 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/foundation_icons.styl */
 .fi-page-copy:before {
   content: "\f180";
 }
 
-/* line 441 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/foundation_icons.styl */
+/* line 441 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/foundation_icons.styl */
 .fi-page-csv:before {
   content: "\f181";
 }
 
-/* line 442 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/foundation_icons.styl */
+/* line 442 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/foundation_icons.styl */
 .fi-page-delete:before {
   content: "\f182";
 }
 
-/* line 443 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/foundation_icons.styl */
+/* line 443 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/foundation_icons.styl */
 .fi-page-doc:before {
   content: "\f183";
 }
 
-/* line 444 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/foundation_icons.styl */
+/* line 444 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/foundation_icons.styl */
 .fi-page-edit:before {
   content: "\f184";
 }
 
-/* line 445 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/foundation_icons.styl */
+/* line 445 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/foundation_icons.styl */
 .fi-page-export-csv:before {
   content: "\f185";
 }
 
-/* line 446 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/foundation_icons.styl */
+/* line 446 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/foundation_icons.styl */
 .fi-page-export-doc:before {
   content: "\f186";
 }
 
-/* line 447 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/foundation_icons.styl */
+/* line 447 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/foundation_icons.styl */
 .fi-page-export-pdf:before {
   content: "\f187";
 }
 
-/* line 448 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/foundation_icons.styl */
+/* line 448 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/foundation_icons.styl */
 .fi-page-export:before {
   content: "\f188";
 }
 
-/* line 449 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/foundation_icons.styl */
+/* line 449 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/foundation_icons.styl */
 .fi-page-filled:before {
   content: "\f189";
 }
 
-/* line 450 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/foundation_icons.styl */
+/* line 450 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/foundation_icons.styl */
 .fi-page-multiple:before {
   content: "\f18a";
 }
 
-/* line 451 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/foundation_icons.styl */
+/* line 451 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/foundation_icons.styl */
 .fi-page-pdf:before {
   content: "\f18b";
 }
 
-/* line 452 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/foundation_icons.styl */
+/* line 452 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/foundation_icons.styl */
 .fi-page-remove:before {
   content: "\f18c";
 }
 
-/* line 453 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/foundation_icons.styl */
+/* line 453 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/foundation_icons.styl */
 .fi-page-search:before {
   content: "\f18d";
 }
 
-/* line 454 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/foundation_icons.styl */
+/* line 454 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/foundation_icons.styl */
 .fi-page:before {
   content: "\f18e";
 }
 
-/* line 455 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/foundation_icons.styl */
+/* line 455 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/foundation_icons.styl */
 .fi-paint-bucket:before {
   content: "\f18f";
 }
 
-/* line 456 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/foundation_icons.styl */
+/* line 456 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/foundation_icons.styl */
 .fi-paperclip:before {
   content: "\f190";
 }
 
-/* line 457 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/foundation_icons.styl */
+/* line 457 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/foundation_icons.styl */
 .fi-pause:before {
   content: "\f191";
 }
 
-/* line 458 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/foundation_icons.styl */
+/* line 458 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/foundation_icons.styl */
 .fi-paw:before {
   content: "\f192";
 }
 
-/* line 459 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/foundation_icons.styl */
+/* line 459 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/foundation_icons.styl */
 .fi-paypal:before {
   content: "\f193";
 }
 
-/* line 460 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/foundation_icons.styl */
+/* line 460 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/foundation_icons.styl */
 .fi-pencil:before {
   content: "\f194";
 }
 
-/* line 461 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/foundation_icons.styl */
+/* line 461 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/foundation_icons.styl */
 .fi-photo:before {
   content: "\f195";
 }
 
-/* line 462 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/foundation_icons.styl */
+/* line 462 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/foundation_icons.styl */
 .fi-play-circle:before {
   content: "\f196";
 }
 
-/* line 463 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/foundation_icons.styl */
+/* line 463 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/foundation_icons.styl */
 .fi-play-video:before {
   content: "\f197";
 }
 
-/* line 464 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/foundation_icons.styl */
+/* line 464 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/foundation_icons.styl */
 .fi-play:before {
   content: "\f198";
 }
 
-/* line 465 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/foundation_icons.styl */
+/* line 465 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/foundation_icons.styl */
 .fi-plus:before {
   content: "\f199";
 }
 
-/* line 466 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/foundation_icons.styl */
+/* line 466 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/foundation_icons.styl */
 .fi-pound:before {
   content: "\f19a";
 }
 
-/* line 467 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/foundation_icons.styl */
+/* line 467 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/foundation_icons.styl */
 .fi-power:before {
   content: "\f19b";
 }
 
-/* line 468 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/foundation_icons.styl */
+/* line 468 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/foundation_icons.styl */
 .fi-previous:before {
   content: "\f19c";
 }
 
-/* line 469 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/foundation_icons.styl */
+/* line 469 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/foundation_icons.styl */
 .fi-price-tag:before {
   content: "\f19d";
 }
 
-/* line 470 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/foundation_icons.styl */
+/* line 470 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/foundation_icons.styl */
 .fi-pricetag-multiple:before {
   content: "\f19e";
 }
 
-/* line 471 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/foundation_icons.styl */
+/* line 471 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/foundation_icons.styl */
 .fi-print:before {
   content: "\f19f";
 }
 
-/* line 472 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/foundation_icons.styl */
+/* line 472 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/foundation_icons.styl */
 .fi-prohibited:before {
   content: "\f1a0";
 }
 
-/* line 473 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/foundation_icons.styl */
+/* line 473 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/foundation_icons.styl */
 .fi-projection-screen:before {
   content: "\f1a1";
 }
 
-/* line 474 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/foundation_icons.styl */
+/* line 474 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/foundation_icons.styl */
 .fi-puzzle:before {
   content: "\f1a2";
 }
 
-/* line 475 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/foundation_icons.styl */
+/* line 475 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/foundation_icons.styl */
 .fi-quote:before {
   content: "\f1a3";
 }
 
-/* line 476 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/foundation_icons.styl */
+/* line 476 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/foundation_icons.styl */
 .fi-record:before {
   content: "\f1a4";
 }
 
-/* line 477 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/foundation_icons.styl */
+/* line 477 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/foundation_icons.styl */
 .fi-refresh:before {
   content: "\f1a5";
 }
 
-/* line 478 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/foundation_icons.styl */
+/* line 478 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/foundation_icons.styl */
 .fi-results-demographics:before {
   content: "\f1a6";
 }
 
-/* line 479 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/foundation_icons.styl */
+/* line 479 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/foundation_icons.styl */
 .fi-results:before {
   content: "\f1a7";
 }
 
-/* line 480 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/foundation_icons.styl */
+/* line 480 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/foundation_icons.styl */
 .fi-rewind-ten:before {
   content: "\f1a8";
 }
 
-/* line 481 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/foundation_icons.styl */
+/* line 481 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/foundation_icons.styl */
 .fi-rewind:before {
   content: "\f1a9";
 }
 
-/* line 482 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/foundation_icons.styl */
+/* line 482 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/foundation_icons.styl */
 .fi-rss:before {
   content: "\f1aa";
 }
 
-/* line 483 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/foundation_icons.styl */
+/* line 483 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/foundation_icons.styl */
 .fi-safety-cone:before {
   content: "\f1ab";
 }
 
-/* line 484 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/foundation_icons.styl */
+/* line 484 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/foundation_icons.styl */
 .fi-save:before {
   content: "\f1ac";
 }
 
-/* line 485 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/foundation_icons.styl */
+/* line 485 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/foundation_icons.styl */
 .fi-share:before {
   content: "\f1ad";
 }
 
-/* line 486 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/foundation_icons.styl */
+/* line 486 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/foundation_icons.styl */
 .fi-sheriff-badge:before {
   content: "\f1ae";
 }
 
-/* line 487 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/foundation_icons.styl */
+/* line 487 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/foundation_icons.styl */
 .fi-shield:before {
   content: "\f1af";
 }
 
-/* line 488 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/foundation_icons.styl */
+/* line 488 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/foundation_icons.styl */
 .fi-shopping-bag:before {
   content: "\f1b0";
 }
 
-/* line 489 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/foundation_icons.styl */
+/* line 489 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/foundation_icons.styl */
 .fi-shopping-cart:before {
   content: "\f1b1";
 }
 
-/* line 490 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/foundation_icons.styl */
+/* line 490 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/foundation_icons.styl */
 .fi-shuffle:before {
   content: "\f1b2";
 }
 
-/* line 491 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/foundation_icons.styl */
+/* line 491 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/foundation_icons.styl */
 .fi-skull:before {
   content: "\f1b3";
 }
 
-/* line 492 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/foundation_icons.styl */
+/* line 492 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/foundation_icons.styl */
 .fi-social-500px:before {
   content: "\f1b4";
 }
 
-/* line 493 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/foundation_icons.styl */
+/* line 493 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/foundation_icons.styl */
 .fi-social-adobe:before {
   content: "\f1b5";
 }
 
-/* line 494 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/foundation_icons.styl */
+/* line 494 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/foundation_icons.styl */
 .fi-social-amazon:before {
   content: "\f1b6";
 }
 
-/* line 495 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/foundation_icons.styl */
+/* line 495 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/foundation_icons.styl */
 .fi-social-android:before {
   content: "\f1b7";
 }
 
-/* line 496 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/foundation_icons.styl */
+/* line 496 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/foundation_icons.styl */
 .fi-social-apple:before {
   content: "\f1b8";
 }
 
-/* line 497 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/foundation_icons.styl */
+/* line 497 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/foundation_icons.styl */
 .fi-social-behance:before {
   content: "\f1b9";
 }
 
-/* line 498 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/foundation_icons.styl */
+/* line 498 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/foundation_icons.styl */
 .fi-social-bing:before {
   content: "\f1ba";
 }
 
-/* line 499 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/foundation_icons.styl */
+/* line 499 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/foundation_icons.styl */
 .fi-social-blogger:before {
   content: "\f1bb";
 }
 
-/* line 500 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/foundation_icons.styl */
+/* line 500 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/foundation_icons.styl */
 .fi-social-delicious:before {
   content: "\f1bc";
 }
 
-/* line 501 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/foundation_icons.styl */
+/* line 501 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/foundation_icons.styl */
 .fi-social-designer-news:before {
   content: "\f1bd";
 }
 
-/* line 502 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/foundation_icons.styl */
+/* line 502 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/foundation_icons.styl */
 .fi-social-deviant-art:before {
   content: "\f1be";
 }
 
-/* line 503 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/foundation_icons.styl */
+/* line 503 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/foundation_icons.styl */
 .fi-social-digg:before {
   content: "\f1bf";
 }
 
-/* line 504 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/foundation_icons.styl */
+/* line 504 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/foundation_icons.styl */
 .fi-social-dribbble:before {
   content: "\f1c0";
 }
 
-/* line 505 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/foundation_icons.styl */
+/* line 505 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/foundation_icons.styl */
 .fi-social-drive:before {
   content: "\f1c1";
 }
 
-/* line 506 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/foundation_icons.styl */
+/* line 506 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/foundation_icons.styl */
 .fi-social-dropbox:before {
   content: "\f1c2";
 }
 
-/* line 507 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/foundation_icons.styl */
+/* line 507 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/foundation_icons.styl */
 .fi-social-evernote:before {
   content: "\f1c3";
 }
 
-/* line 508 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/foundation_icons.styl */
+/* line 508 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/foundation_icons.styl */
 .fi-social-facebook:before {
   content: "\f1c4";
 }
 
-/* line 509 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/foundation_icons.styl */
+/* line 509 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/foundation_icons.styl */
 .fi-social-flickr:before {
   content: "\f1c5";
 }
 
-/* line 510 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/foundation_icons.styl */
+/* line 510 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/foundation_icons.styl */
 .fi-social-forrst:before {
   content: "\f1c6";
 }
 
-/* line 511 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/foundation_icons.styl */
+/* line 511 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/foundation_icons.styl */
 .fi-social-foursquare:before {
   content: "\f1c7";
 }
 
-/* line 512 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/foundation_icons.styl */
+/* line 512 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/foundation_icons.styl */
 .fi-social-game-center:before {
   content: "\f1c8";
 }
 
-/* line 513 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/foundation_icons.styl */
+/* line 513 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/foundation_icons.styl */
 .fi-social-github:before {
   content: "\f1c9";
 }
 
-/* line 514 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/foundation_icons.styl */
+/* line 514 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/foundation_icons.styl */
 .fi-social-google-plus:before {
   content: "\f1ca";
 }
 
-/* line 515 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/foundation_icons.styl */
+/* line 515 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/foundation_icons.styl */
 .fi-social-hacker-news:before {
   content: "\f1cb";
 }
 
-/* line 516 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/foundation_icons.styl */
+/* line 516 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/foundation_icons.styl */
 .fi-social-hi5:before {
   content: "\f1cc";
 }
 
-/* line 517 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/foundation_icons.styl */
+/* line 517 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/foundation_icons.styl */
 .fi-social-instagram:before {
   content: "\f1cd";
 }
 
-/* line 518 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/foundation_icons.styl */
+/* line 518 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/foundation_icons.styl */
 .fi-social-joomla:before {
   content: "\f1ce";
 }
 
-/* line 519 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/foundation_icons.styl */
+/* line 519 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/foundation_icons.styl */
 .fi-social-lastfm:before {
   content: "\f1cf";
 }
 
-/* line 520 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/foundation_icons.styl */
+/* line 520 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/foundation_icons.styl */
 .fi-social-linkedin:before {
   content: "\f1d0";
 }
 
-/* line 521 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/foundation_icons.styl */
+/* line 521 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/foundation_icons.styl */
 .fi-social-medium:before {
   content: "\f1d1";
 }
 
-/* line 522 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/foundation_icons.styl */
+/* line 522 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/foundation_icons.styl */
 .fi-social-myspace:before {
   content: "\f1d2";
 }
 
-/* line 523 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/foundation_icons.styl */
+/* line 523 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/foundation_icons.styl */
 .fi-social-orkut:before {
   content: "\f1d3";
 }
 
-/* line 524 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/foundation_icons.styl */
+/* line 524 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/foundation_icons.styl */
 .fi-social-path:before {
   content: "\f1d4";
 }
 
-/* line 525 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/foundation_icons.styl */
+/* line 525 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/foundation_icons.styl */
 .fi-social-picasa:before {
   content: "\f1d5";
 }
 
-/* line 526 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/foundation_icons.styl */
+/* line 526 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/foundation_icons.styl */
 .fi-social-pinterest:before {
   content: "\f1d6";
 }
 
-/* line 527 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/foundation_icons.styl */
+/* line 527 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/foundation_icons.styl */
 .fi-social-rdio:before {
   content: "\f1d7";
 }
 
-/* line 528 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/foundation_icons.styl */
+/* line 528 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/foundation_icons.styl */
 .fi-social-reddit:before {
   content: "\f1d8";
 }
 
-/* line 529 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/foundation_icons.styl */
+/* line 529 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/foundation_icons.styl */
 .fi-social-skillshare:before {
   content: "\f1d9";
 }
 
-/* line 530 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/foundation_icons.styl */
+/* line 530 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/foundation_icons.styl */
 .fi-social-skype:before {
   content: "\f1da";
 }
 
-/* line 531 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/foundation_icons.styl */
+/* line 531 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/foundation_icons.styl */
 .fi-social-smashing-mag:before {
   content: "\f1db";
 }
 
-/* line 532 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/foundation_icons.styl */
+/* line 532 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/foundation_icons.styl */
 .fi-social-snapchat:before {
   content: "\f1dc";
 }
 
-/* line 533 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/foundation_icons.styl */
+/* line 533 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/foundation_icons.styl */
 .fi-social-spotify:before {
   content: "\f1dd";
 }
 
-/* line 534 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/foundation_icons.styl */
+/* line 534 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/foundation_icons.styl */
 .fi-social-squidoo:before {
   content: "\f1de";
 }
 
-/* line 535 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/foundation_icons.styl */
+/* line 535 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/foundation_icons.styl */
 .fi-social-stack-overflow:before {
   content: "\f1df";
 }
 
-/* line 536 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/foundation_icons.styl */
+/* line 536 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/foundation_icons.styl */
 .fi-social-steam:before {
   content: "\f1e0";
 }
 
-/* line 537 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/foundation_icons.styl */
+/* line 537 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/foundation_icons.styl */
 .fi-social-stumbleupon:before {
   content: "\f1e1";
 }
 
-/* line 538 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/foundation_icons.styl */
+/* line 538 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/foundation_icons.styl */
 .fi-social-treehouse:before {
   content: "\f1e2";
 }
 
-/* line 539 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/foundation_icons.styl */
+/* line 539 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/foundation_icons.styl */
 .fi-social-tumblr:before {
   content: "\f1e3";
 }
 
-/* line 540 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/foundation_icons.styl */
+/* line 540 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/foundation_icons.styl */
 .fi-social-twitter:before {
   content: "\f1e4";
 }
 
-/* line 541 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/foundation_icons.styl */
+/* line 541 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/foundation_icons.styl */
 .fi-social-vimeo:before {
   content: "\f1e5";
 }
 
-/* line 542 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/foundation_icons.styl */
+/* line 542 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/foundation_icons.styl */
 .fi-social-windows:before {
   content: "\f1e6";
 }
 
-/* line 543 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/foundation_icons.styl */
+/* line 543 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/foundation_icons.styl */
 .fi-social-xbox:before {
   content: "\f1e7";
 }
 
-/* line 544 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/foundation_icons.styl */
+/* line 544 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/foundation_icons.styl */
 .fi-social-yahoo:before {
   content: "\f1e8";
 }
 
-/* line 545 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/foundation_icons.styl */
+/* line 545 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/foundation_icons.styl */
 .fi-social-yelp:before {
   content: "\f1e9";
 }
 
-/* line 546 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/foundation_icons.styl */
+/* line 546 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/foundation_icons.styl */
 .fi-social-youtube:before {
   content: "\f1ea";
 }
 
-/* line 547 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/foundation_icons.styl */
+/* line 547 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/foundation_icons.styl */
 .fi-social-zerply:before {
   content: "\f1eb";
 }
 
-/* line 548 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/foundation_icons.styl */
+/* line 548 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/foundation_icons.styl */
 .fi-social-zurb:before {
   content: "\f1ec";
 }
 
-/* line 549 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/foundation_icons.styl */
+/* line 549 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/foundation_icons.styl */
 .fi-sound:before {
   content: "\f1ed";
 }
 
-/* line 550 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/foundation_icons.styl */
+/* line 550 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/foundation_icons.styl */
 .fi-star:before {
   content: "\f1ee";
 }
 
-/* line 551 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/foundation_icons.styl */
+/* line 551 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/foundation_icons.styl */
 .fi-stop:before {
   content: "\f1ef";
 }
 
-/* line 552 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/foundation_icons.styl */
+/* line 552 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/foundation_icons.styl */
 .fi-strikethrough:before {
   content: "\f1f0";
 }
 
-/* line 553 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/foundation_icons.styl */
+/* line 553 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/foundation_icons.styl */
 .fi-subscript:before {
   content: "\f1f1";
 }
 
-/* line 554 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/foundation_icons.styl */
+/* line 554 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/foundation_icons.styl */
 .fi-superscript:before {
   content: "\f1f2";
 }
 
-/* line 555 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/foundation_icons.styl */
+/* line 555 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/foundation_icons.styl */
 .fi-tablet-landscape:before {
   content: "\f1f3";
 }
 
-/* line 556 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/foundation_icons.styl */
+/* line 556 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/foundation_icons.styl */
 .fi-tablet-portrait:before {
   content: "\f1f4";
 }
 
-/* line 557 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/foundation_icons.styl */
+/* line 557 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/foundation_icons.styl */
 .fi-target-two:before {
   content: "\f1f5";
 }
 
-/* line 558 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/foundation_icons.styl */
+/* line 558 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/foundation_icons.styl */
 .fi-target:before {
   content: "\f1f6";
 }
 
-/* line 559 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/foundation_icons.styl */
+/* line 559 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/foundation_icons.styl */
 .fi-telephone-accessible:before {
   content: "\f1f7";
 }
 
-/* line 560 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/foundation_icons.styl */
+/* line 560 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/foundation_icons.styl */
 .fi-telephone:before {
   content: "\f1f8";
 }
 
-/* line 561 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/foundation_icons.styl */
+/* line 561 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/foundation_icons.styl */
 .fi-text-color:before {
   content: "\f1f9";
 }
 
-/* line 562 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/foundation_icons.styl */
+/* line 562 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/foundation_icons.styl */
 .fi-thumbnails:before {
   content: "\f1fa";
 }
 
-/* line 563 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/foundation_icons.styl */
+/* line 563 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/foundation_icons.styl */
 .fi-ticket:before {
   content: "\f1fb";
 }
 
-/* line 564 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/foundation_icons.styl */
+/* line 564 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/foundation_icons.styl */
 .fi-torso-business:before {
   content: "\f1fc";
 }
 
-/* line 565 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/foundation_icons.styl */
+/* line 565 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/foundation_icons.styl */
 .fi-torso-female:before {
   content: "\f1fd";
 }
 
-/* line 566 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/foundation_icons.styl */
+/* line 566 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/foundation_icons.styl */
 .fi-torso:before {
   content: "\f1fe";
 }
 
-/* line 567 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/foundation_icons.styl */
+/* line 567 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/foundation_icons.styl */
 .fi-torsos-all-female:before {
   content: "\f1ff";
 }
 
-/* line 568 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/foundation_icons.styl */
+/* line 568 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/foundation_icons.styl */
 .fi-torsos-all:before {
   content: "\f200";
 }
 
-/* line 569 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/foundation_icons.styl */
+/* line 569 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/foundation_icons.styl */
 .fi-torsos-female-male:before {
   content: "\f201";
 }
 
-/* line 570 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/foundation_icons.styl */
+/* line 570 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/foundation_icons.styl */
 .fi-torsos-male-female:before {
   content: "\f202";
 }
 
-/* line 571 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/foundation_icons.styl */
+/* line 571 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/foundation_icons.styl */
 .fi-torsos:before {
   content: "\f203";
 }
 
-/* line 572 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/foundation_icons.styl */
+/* line 572 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/foundation_icons.styl */
 .fi-trash:before {
   content: "\f204";
 }
 
-/* line 573 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/foundation_icons.styl */
+/* line 573 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/foundation_icons.styl */
 .fi-trees:before {
   content: "\f205";
 }
 
-/* line 574 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/foundation_icons.styl */
+/* line 574 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/foundation_icons.styl */
 .fi-trophy:before {
   content: "\f206";
 }
 
-/* line 575 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/foundation_icons.styl */
+/* line 575 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/foundation_icons.styl */
 .fi-underline:before {
   content: "\f207";
 }
 
-/* line 576 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/foundation_icons.styl */
+/* line 576 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/foundation_icons.styl */
 .fi-universal-access:before {
   content: "\f208";
 }
 
-/* line 577 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/foundation_icons.styl */
+/* line 577 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/foundation_icons.styl */
 .fi-unlink:before {
   content: "\f209";
 }
 
-/* line 578 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/foundation_icons.styl */
+/* line 578 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/foundation_icons.styl */
 .fi-unlock:before {
   content: "\f20a";
 }
 
-/* line 579 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/foundation_icons.styl */
+/* line 579 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/foundation_icons.styl */
 .fi-upload-cloud:before {
   content: "\f20b";
 }
 
-/* line 580 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/foundation_icons.styl */
+/* line 580 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/foundation_icons.styl */
 .fi-upload:before {
   content: "\f20c";
 }
 
-/* line 581 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/foundation_icons.styl */
+/* line 581 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/foundation_icons.styl */
 .fi-usb:before {
   content: "\f20d";
 }
 
-/* line 582 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/foundation_icons.styl */
+/* line 582 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/foundation_icons.styl */
 .fi-video:before {
   content: "\f20e";
 }
 
-/* line 583 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/foundation_icons.styl */
+/* line 583 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/foundation_icons.styl */
 .fi-volume-none:before {
   content: "\f20f";
 }
 
-/* line 584 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/foundation_icons.styl */
+/* line 584 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/foundation_icons.styl */
 .fi-volume-strike:before {
   content: "\f210";
 }
 
-/* line 585 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/foundation_icons.styl */
+/* line 585 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/foundation_icons.styl */
 .fi-volume:before {
   content: "\f211";
 }
 
-/* line 586 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/foundation_icons.styl */
+/* line 586 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/foundation_icons.styl */
 .fi-web:before {
   content: "\f212";
 }
 
-/* line 587 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/foundation_icons.styl */
+/* line 587 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/foundation_icons.styl */
 .fi-wheelchair:before {
   content: "\f213";
 }
 
-/* line 588 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/foundation_icons.styl */
+/* line 588 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/foundation_icons.styl */
 .fi-widget:before {
   content: "\f214";
 }
 
-/* line 589 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/foundation_icons.styl */
+/* line 589 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/foundation_icons.styl */
 .fi-wrench:before {
   content: "\f215";
 }
 
-/* line 590 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/foundation_icons.styl */
+/* line 590 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/foundation_icons.styl */
 .fi-x-circle:before {
   content: "\f216";
 }
 
-/* line 591 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/foundation_icons.styl */
+/* line 591 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/foundation_icons.styl */
 .fi-x:before {
   content: "\f217";
 }
 
-/* line 592 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/foundation_icons.styl */
+/* line 592 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/foundation_icons.styl */
 .fi-yen:before {
   content: "\f218";
 }
 
-/* line 593 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/foundation_icons.styl */
+/* line 593 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/foundation_icons.styl */
 .fi-zoom-in:before {
   content: "\f219";
 }
 
-/* line 594 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/foundation_icons.styl */
+/* line 594 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/foundation_icons.styl */
 .fi-zoom-out:before {
   content: "\f21a";
 }
 
-/* line 595 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/foundation_icons.styl */
+/* line 595 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/foundation_icons.styl */
 
-/* line 1 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/color_palette.styl */
+/* line 1 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/color_palette.styl */
 
-/* line 6 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/color_palette.styl */
+/* line 6 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/color_palette.styl */
 
-/* line 6 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/base.styl */
+/* line 6 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/base.styl */
 
-/* line 1 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/base.styl */
+/* line 1 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/base.styl */
 body {
   font-family: Helvetica, 'Lucida Grande';
   color: #646464;
@@ -2107,7 +2107,7 @@ body {
   padding-bottom: 100px;
 }
 
-/* line 10 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/base.styl */
+/* line 10 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/base.styl */
 .content-section {
   -webkit-box-sizing: border-box;
   -moz-box-sizing: border-box;
@@ -2124,7 +2124,7 @@ body {
   padding: 20px;
 }
 
-/* line 21 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/base.styl */
+/* line 21 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/base.styl */
 h2 {
   color: #3498db;
   margin: 0;
@@ -2133,11 +2133,11 @@ h2 {
   font-weight: normal;
 }
 
-/* line 27 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/base.styl */
+/* line 27 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/base.styl */
 
-/* line 27 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/inputs.styl */
+/* line 27 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/inputs.styl */
 
-/* line 1 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/inputs.styl */
+/* line 1 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/inputs.styl */
 input[type="text"],
 input[type="email"],
 input[type="password"] {
@@ -2159,7 +2159,7 @@ input[type="password"] {
   padding: 9px 30px 7px 9px;
 }
 
-/* line 15 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/inputs.styl */
+/* line 15 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/inputs.styl */
 input[type="text"]:focus,
 input[type="email"]:focus,
 input[type="password"]:focus {
@@ -2168,7 +2168,7 @@ input[type="password"]:focus {
   color: #333;
 }
 
-/* line 20 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/inputs.styl */
+/* line 20 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/inputs.styl */
 input[type="text"]:active,
 input[type="email"]:active,
 input[type="password"]:active {
@@ -2177,11 +2177,11 @@ input[type="password"]:active {
   border-top: 1px solid #dfdfdf;
 }
 
-/* line 24 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/inputs.styl */
+/* line 24 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/inputs.styl */
 
-/* line 24 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/buttons.styl */
+/* line 24 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/buttons.styl */
 
-/* line 1 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/buttons.styl */
+/* line 1 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/buttons.styl */
 .button {
   -webkit-box-shadow: 1px -1px 1px rgba(255,255,255,0.98) inset, -1px 0 1px rgba(255,255,255,0.98) inset;
   box-shadow: 1px -1px 1px rgba(255,255,255,0.98) inset, -1px 0 1px rgba(255,255,255,0.98) inset;
@@ -2204,23 +2204,23 @@ input[type="password"]:active {
   padding: 8px 14px 7px;
 }
 
-/* line 16 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/buttons.styl */
+/* line 16 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/buttons.styl */
 .button:active {
   -webkit-box-shadow: inset 0 0 4px rgba(0,0,0,0.37);
   box-shadow: inset 0 0 4px rgba(0,0,0,0.37);
   border: 1px solid rgba(0,0,0,0.26);
 }
 
-/* line 20 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/buttons.styl */
+/* line 20 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/buttons.styl */
 .button:focus {
   border-color: #ccc #c2c2c2 #b8b8b8;
 }
 
-/* line 22 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/buttons.styl */
+/* line 22 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/buttons.styl */
 
-/* line 22 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/header.styl */
+/* line 22 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/header.styl */
 
-/* line 1 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/header.styl */
+/* line 1 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/header.styl */
 header {
   background-color: #fff;
   -webkit-box-sizing: border-box;
@@ -2233,7 +2233,7 @@ header {
   box-shadow: 0 2px 2px 0 rgba(0,0,0,0.1), 0 1px 0 0 rgba(0,0,0,0.1);
 }
 
-/* line 9 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/header.styl */
+/* line 9 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/header.styl */
 header .header-userLabel {
   position: absolute;
   right: 110px;
@@ -2241,7 +2241,7 @@ header .header-userLabel {
   color: rgba(100,100,100,0.8);
 }
 
-/* line 15 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/header.styl */
+/* line 15 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/header.styl */
 header .header-signOut {
   position: absolute;
   right: 20px;
@@ -2250,7 +2250,7 @@ header .header-signOut {
   color: #3498db;
 }
 
-/* line 22 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/header.styl */
+/* line 22 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/header.styl */
 header h1 {
   margin: 0;
   padding-top: 5px;
@@ -2259,11 +2259,11 @@ header h1 {
   color: #3498db;
 }
 
-/* line 28 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/header.styl */
+/* line 28 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/header.styl */
 
-/* line 28 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/registration.styl */
+/* line 28 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/registration.styl */
 
-/* line 1 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/registration.styl */
+/* line 1 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/registration.styl */
 .authentication-form,
 .signup-form {
   background: #fff;
@@ -2282,13 +2282,13 @@ header h1 {
   box-sizing: border-box;
 }
 
-/* line 13 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/registration.styl */
+/* line 13 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/registration.styl */
 .authentication-form h1,
 .signup-form h1 {
   font-size: 25px;
 }
 
-/* line 16 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/registration.styl */
+/* line 16 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/registration.styl */
 .authentication-form input,
 .signup-form input {
   height: 50px;
@@ -2298,22 +2298,22 @@ header h1 {
   width: 100%;
 }
 
-/* line 23 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/registration.styl */
+/* line 23 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/registration.styl */
 .authentication-form .main-action,
 .signup-form .main-action {
   margin-top: 40px;
 }
 
-/* line 26 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/registration.styl */
+/* line 26 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/registration.styl */
 .authentication-form .alternative-action,
 .signup-form .alternative-action {
   text-decoration: none;
   color: #3498db;
 }
 
-/* line 30 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/registration.styl */
+/* line 30 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/registration.styl */
 
-/* line 31 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/registration.styl */
+/* line 31 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/registration.styl */
 .authentication-form .errors .error,
 .signup-form .errors .error {
   padding: 6px;
@@ -2326,18 +2326,18 @@ header h1 {
   background-color: rgba(255,59,48,0.5);
 }
 
-/* line 38 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/registration.styl */
+/* line 38 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/registration.styl */
 
-/* line 38 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/notifications.styl */
+/* line 38 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/notifications.styl */
 
-/* line 1 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/notifications.styl */
+/* line 1 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/notifications.styl */
 .notifications-center {
   position: absolute;
   right: 2px;
   top: 80px;
 }
 
-/* line 6 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/notifications.styl */
+/* line 6 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/notifications.styl */
 .notifications-center .notification {
   padding: 6px;
   color: #fff;
@@ -2345,26 +2345,26 @@ header h1 {
   width: 250px;
 }
 
-/* line 12 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/notifications.styl */
+/* line 12 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/notifications.styl */
 .notifications-center .notification.error {
   background-color: rgba(255,59,48,0.5);
 }
 
-/* line 15 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/notifications.styl */
+/* line 15 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/notifications.styl */
 .notifications-center .notification.success {
   background-color: rgba(76,217,100,0.3);
 }
 
-/* line 17 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/notifications.styl */
+/* line 17 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/notifications.styl */
 
-/* line 17 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/times.styl */
+/* line 17 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/times.styl */
 
-/* line 1 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/times.styl */
+/* line 1 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/times.styl */
 .time-list {
   margin-top: 15px;
 }
 
-/* line 6 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/times.styl */
+/* line 6 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/times.styl */
 .time-list .time-item {
   width: 100%;
   position: relative;
@@ -2380,7 +2380,7 @@ header h1 {
   text-align: center;
 }
 
-/* line 26 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/times.styl */
+/* line 26 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/times.styl */
 .time-list .time-item input.read-only {
   border: none;
   color: #646464;
@@ -2391,13 +2391,13 @@ header h1 {
   text-align: center;
 }
 
-/* line 33 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/times.styl */
+/* line 33 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/times.styl */
 .time-list .time-item a {
   text-decoration: none;
   color: #3498db;
 }
 
-/* line 36 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/times.styl */
+/* line 36 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/times.styl */
 .time-list .time-item .remove-time {
   cursor: pointer;
   opacity: 0;
@@ -2414,12 +2414,12 @@ header h1 {
   transition: opacity 0.5s;
 }
 
-/* line 44 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/times.styl */
+/* line 44 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/times.styl */
 .time-list .time-item .remove-time:hover {
   color: #f00;
 }
 
-/* line 46 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/times.styl */
+/* line 46 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/times.styl */
 .time-list .time-item .edit-time {
   cursor: pointer;
   opacity: 0;
@@ -2436,7 +2436,7 @@ header h1 {
   transition: opacity 0.5s;
 }
 
-/* line 54 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/times.styl */
+/* line 54 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/times.styl */
 .time-list .time-item .save-time {
   position: absolute;
   top: 12px;
@@ -2444,9 +2444,9 @@ header h1 {
   width: 10px;
 }
 
-/* line 60 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/times.styl */
+/* line 60 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/times.styl */
 
-/* line 61 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/times.styl */
+/* line 61 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/times.styl */
 .time-list .time-item:hover .remove-time,
 .time-list .time-item:hover .edit-time {
   opacity: 1;
@@ -2454,33 +2454,33 @@ header h1 {
   filter: none;
 }
 
-/* line 63 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/times.styl */
+/* line 63 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/times.styl */
 .time-list .time-item .time-title {
   color: #646464;
   margin: 0px 45px;
 }
 
-/* line 66 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/times.styl */
+/* line 66 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/times.styl */
 .time-list .time-item .date {
   margin-right: 90px;
 }
 
-/* line 68 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/times.styl */
+/* line 68 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/times.styl */
 .time-list .time-item .distance {
   margin-right: 77px;
   margin-right: 77px;
 }
 
-/* line 71 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/times.styl */
+/* line 71 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/times.styl */
 
-/* line 71 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/times_filter.styl */
+/* line 71 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/times_filter.styl */
 
-/* line 1 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/times_filter.styl */
+/* line 1 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/times_filter.styl */
 .times-filter {
   text-align: center;
 }
 
-/* line 4 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/times_filter.styl */
+/* line 4 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/times_filter.styl */
 .times-filter .filters-form {
   padding: 20px;
   display: inline-block;
@@ -2488,20 +2488,20 @@ header h1 {
   border-radius: 3px;
 }
 
-/* line 8 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/times_filter.styl */
+/* line 8 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/times_filter.styl */
 
-/* line 8 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/report.styl */
+/* line 8 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/report.styl */
 
-/* line 3 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/report.styl */
+/* line 3 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/report.styl */
 
-/* line 4 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/report.styl */
+/* line 4 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/report.styl */
 div.report div.js-speed-report,
 div.report div.js-distance-report {
   width: 350px;
   display: inline-block;
 }
 
-/* line 7 : /Users/diegoprado/workspace/toptal/diego-prado/webApp/styles/report.styl */
+/* line 7 : /Users/diegoprado/workspace/toptal/todo-app-example/webApp/styles/report.styl */
 div.report div.js-speed-report div,
 div.report div.js-distance-report div {
   font-size: 60px;
